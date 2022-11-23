@@ -1,3 +1,21 @@
+# Setup
+
+Clone the repository:
+
+```git clone https://github.com/feewet/hardhat-typechain-starter```
+
+Install dependencies:
+
+```yarn```
+
+Compile
+
+```yarn build```
+
+Test
+
+```yarn test```
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
